@@ -9,7 +9,7 @@
 
 ![VisualStudio](https://github.com/subautis/practicas_poo/blob/master/poo_01/practica_calculadora_01.png)
 
-- FamiliarÍzate con el entorno de desarrollo: Vista de Diseño del formulario, Cuadro de Herramientas y el Explorador de Soluciones.
+- Familiarízate con el entorno de desarrollo: Vista de Diseño del formulario, Cuadro de Herramientas y el Explorador de Soluciones.
 
 ![Entorno de Desarrollo](https://github.com/subautis/practicas_poo/blob/master/poo_01/practica_calculadora_02.png)
 
