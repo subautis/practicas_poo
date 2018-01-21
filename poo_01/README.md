@@ -1,6 +1,10 @@
 ## Tema 01
 ### Construye tu Calculadora
 
+- El objetivo de esta práctica es crear la <b>Calculadora</b> clásica de Windows.
+
+![Calculadora](https://github.com/subautis/practicas_poo/blob/master/poo_01/Calculadora.png)
+
 - Abre el entorno de programación: VisualStudio
 
 ![VisualStudio](https://github.com/subautis/practicas_poo/blob/master/poo_01/practica_calculadora_01.png)
