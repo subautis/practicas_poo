@@ -1,7 +1,7 @@
 # Prácticas POO
 Prácticas Programación Orientada a Objetos (POO)
 
-- [Tema 01](https://github.com/subaustis/practicas_poo/blob/master/poo_01/README.md)
+- [Tema 01](https://github.com/subautis/practicas_poo/tree/master/poo_01)
 
 - Tema 02
 
